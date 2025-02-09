@@ -23,4 +23,4 @@ Um sistema simples para gerenciar amigos e realizar sorteios aleatórios.
 
 ## Demonstração
 Clique aqui para acessar: 
-[abrir]( )
+[abrir](https://natasharhayane.github.io/-Challenge-amigo-secreto/)
